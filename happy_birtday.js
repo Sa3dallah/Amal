@@ -659,3 +659,7 @@ window.addEventListener("DOMContentLoaded", () => {
     body.style.overflow = "visible";
   }, 20000); // 20 ثانية
 });
+
+setTimeout(() => {
+  document.querySelector(".down").style.right = "2%";
+}, 20000); // بعد 20 ثانية
