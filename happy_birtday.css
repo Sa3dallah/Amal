@@ -126,7 +126,7 @@ canvas {
   height: 15px;
   background-color: white;
   left: 49%;
-  bottom: 6%;
+  bottom: 5%;
   transform: translate(-50%, -50%);
 }
 /* ============================================== Animation Fire
@@ -183,7 +183,7 @@ canvas {
 
 @keyframes dropCake {
   to {
-    top: 42%;
+    top: 43%;
     transform: translate(-50%, -50%);
   }
 }
